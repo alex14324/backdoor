@@ -27,8 +27,5 @@ The **pre-push** payload will check directly the provided git information for th
 ## Demo
 How to use gitbackdorizer to exploit user confidence and steal their credentials:
 
-[![GitBackdorizer - stealing credentials](https://img.youtube.com/vi/ka8uJqaDYOs/0.jpg)](https://www.youtube.com/watch?v=ka8uJqaDYOs)
+[![GitBackdorizer - stealing credentials](https://img.youtube.com/vi/ka8uJqaDYOs/0.jpg)](
 
-## Greetz
-- [Ulisses Castro](https://github.com/ulissescastro) - 50 ton of backdoors (https://www.slideshare.net/ulissescastro/50-ton-of-backdoors)
-- [Giovani Silva](https://github.com/giovanifss/) - Wrote Infection Shell Script
